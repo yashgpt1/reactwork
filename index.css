@@ -1,0 +1,7 @@
+.nav{
+  width: auto;
+  height:80px;
+  background-color: aqua;
+  display: flex;
+  gap:400px;
+}
